@@ -1,0 +1,5 @@
+VERSIÓN 1.0
+
+— Versión inicial de la traducción.
+
+Este parche solamente es compatible con la versión 1.1.1 del videojuego.
