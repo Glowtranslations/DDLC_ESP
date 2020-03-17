@@ -1,7 +1,7 @@
 ![Glowtranslations](https://github.com/Glowtranslations/DDLC_ESP/raw/master/images/header.jpg)
 # Información
 Bienvenido al repositorio donde se almacena la traducción de Doki Doki Literature Club en castellano realizado por GlowTranslations
-#¿Donde puedo descargar la traducción?
+# ¿Donde puedo descargar la traducción?
 Bajandote este parcheador y siguiendo las instrucciones que vienen adjuntas.
 # Reportar errores
 Puedes hacerlo siguiendo el tutorial de este [link](https://github.com/Glowtranslations/DDLC_ESP/blob/master/Bug.md "link").
