@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-exclusives-natsuki.rpy:4
 translate Spanish natsuki_exclusive_1_f5f51468:
@@ -874,7 +874,7 @@ translate Spanish natsuki_exclusive_1_8c8bfeaa:
 translate Spanish natsuki_exclusive_1_ffa2b290:
 
     # n "Hmph."
-    n "Hum."
+    n "Jum."
 
 # game/script-exclusives-natsuki.rpy:168
 translate Spanish natsuki_exclusive_1_ef747705:
@@ -1096,7 +1096,7 @@ translate Spanish natsuki_exclusive_1_ea7828e8:
 translate Spanish natsuki_exclusive_1_ef8c2291:
 
     # n "But it gets especially bad when--"
-    n "Pero las cosas realmente se tuercen cuando–"
+    n "Pero las cosas realmente se tuercen cuando..."
 
 # game/script-exclusives-natsuki.rpy:214
 translate Spanish natsuki_exclusive_1_e349a681:
@@ -1666,7 +1666,7 @@ translate Spanish natsuki_exclusive_2_ch3_d876ae52:
 translate Spanish natsuki_exclusive_2_ch3_c79f7cd9:
 
     # n 5x "I {i}knew{/i} it!"
-    n 5x "¡Lo {i}sabía{/I}!"
+    n 5x "¡Lo {i}sabía{/i}!"
 
 # game/script-exclusives-natsuki.rpy:343
 translate Spanish natsuki_exclusive_2_ch3_7a2e300e:

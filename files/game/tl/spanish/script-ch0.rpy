@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-ch0.rpy:12
 translate Spanish ch0_main_41e273ca:
@@ -1162,7 +1162,7 @@ translate Spanish ch0_main_e707a53f:
 translate Spanish ch0_main_da545528:
 
     # "Yuri also nods in agreement."
-    "Yuri también asiente."
+    "Yuri asiente."
 
 # game/script-ch0.rpy:319
 translate Spanish ch0_main_d8791778:

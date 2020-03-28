@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-ch2.rpy:7
 translate Spanish ch2_main_6ae8eabb:
@@ -2488,7 +2488,7 @@ translate Spanish ch2_end_e0540e08:
 translate Spanish ch2_end_ffa2b290:
 
     # n "Hmph."
-    n "Hum."
+    n "Jum."
 
 # game/script-ch2.rpy:682
 translate Spanish ch2_end_61d3b26b:
@@ -2656,7 +2656,7 @@ translate Spanish ch2_end_4a718c10:
 translate Spanish ch2_end_ea4b9ca5:
 
     # n 2x "Hmph..."
-    n 2x "Hum..."
+    n 2x "Jum..."
 
 # game/script-ch2.rpy:729
 translate Spanish ch2_end_bde029d8:

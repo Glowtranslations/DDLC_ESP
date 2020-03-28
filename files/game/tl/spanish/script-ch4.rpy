@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-ch4.rpy:8
 translate Spanish ch4_main_7f03563e:
@@ -16,7 +16,7 @@ translate Spanish ch4_main_e8881ae0:
 translate Spanish ch4_main_1e3fd2be:
 
     # "I keep telling myself there's no reason to be nervous, but it doesn't help much."
-    "Me sigo repitiendo a mi mismo que no hay razón para estarlo, pero no me sirve de mucho."
+    "Me sigo repitiendo a mí mismo que no hay razón para estarlo, pero no me sirve de mucho."
 
 # game/script-ch4.rpy:12
 translate Spanish ch4_main_d63e1a44:
@@ -64,7 +64,7 @@ translate Spanish ch4_main_533ca6d9:
 translate Spanish ch4_main_1e3fd2be_1:
 
     # "I keep telling myself there's no reason to be nervous, but it doesn't help much."
-    "Me sigo repitiendo a mi mismo que no hay razón para estarlo, pero no me sirve de mucho."
+    "Me sigo repitiendo a mí mismo que no hay razón para estarlo, pero no me sirve de mucho."
 
 # game/script-ch4.rpy:21
 translate Spanish ch4_main_6a261072:
@@ -4072,7 +4072,7 @@ translate Spanish ch4_exclusive_yuri_0137eca8:
 translate Spanish ch4_exclusive_yuri_f6874ccc:
 
     # y 3bu "I-Is that so...?"
-    y 3bu "¿A-ah sí?"
+    y 3bu "¿A-ah, sí?"
 
 # game/script-ch4.rpy:772
 translate Spanish ch4_exclusive_yuri_af3e9355:
@@ -4120,7 +4120,7 @@ translate Spanish ch4_exclusive_yuri_6d7bbfcd:
 translate Spanish ch4_exclusive_yuri_66eaf3e1:
 
     # mc "Oh yeah? Like what?"
-    mc "¿Ah sí? ¿Como qué?"
+    mc "¿Ah, sí? ¿Como qué?"
 
 # game/script-ch4.rpy:780
 translate Spanish ch4_exclusive_yuri_4d80474c:
@@ -4366,7 +4366,7 @@ translate Spanish ch4_exclusive_yuri_22ab5158:
 translate Spanish ch4_exclusive_yuri_4f43e9fe:
 
     # mc "Oh yeah?"
-    mc "¿Ah sí?"
+    mc "¿Ah, sí?"
 
 # game/script-ch4.rpy:824
 translate Spanish ch4_exclusive_yuri_2de638ab:
@@ -4420,7 +4420,7 @@ translate Spanish ch4_exclusive_yuri_d51182dd:
 translate Spanish ch4_exclusive_yuri_a9eb75bc:
 
     # y 4ba "Is...that so?"
-    y 4ba "¿A-ah sí?"
+    y 4ba "¿A-ah, sí?"
 
 # game/script-ch4.rpy:833
 translate Spanish ch4_exclusive_yuri_53203fa3:
@@ -4498,7 +4498,7 @@ translate Spanish ch4_exclusive_yuri_dd943745:
 translate Spanish ch4_exclusive_yuri_1cc8a003:
 
     # "Then, she reaches into her bag once more and pulls out a pocket knife."
-    "Luego vuele a buscar algo en su mochila y saca un cuchillo."
+    "Luego vuelve a buscar algo en su mochila y saca un cuchillo."
 
 # game/script-ch4.rpy:846
 translate Spanish ch4_exclusive_yuri_bbe4458e:
@@ -7228,7 +7228,7 @@ translate Spanish ch4_end_yes_e0770fb6:
 translate Spanish ch4_end_yes_b6452473:
 
     # "I know that I love her, and she loves me."
-    "Sé que yo le quiero y que ella me quiere."
+    "Sé que yo la quiero y que ella me quiere."
 
 # game/script-ch4.rpy:1378
 translate Spanish ch4_end_yes_99473e83:

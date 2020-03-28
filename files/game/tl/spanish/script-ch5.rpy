@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-ch5.rpy:88
 translate Spanish ch5_main_291cd73e:
@@ -106,7 +106,7 @@ translate Spanish ch5_main_869ed546:
 translate Spanish ch5_main_158d922b:
 
     # "They must be the ones she prepared that have all the poems we're performing."
-    "Seguro que son los los poemas que ha compuesto para recitarlos."
+    "Seguro que son los poemas que ha compuesto para recitarlos."
 
 # game/script-ch5.rpy:111
 translate Spanish ch5_main_1fd6873b:

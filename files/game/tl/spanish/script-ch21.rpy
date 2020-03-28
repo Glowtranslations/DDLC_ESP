@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-ch21.rpy:10
 translate Spanish ch21_main_0f077782:
@@ -382,7 +382,7 @@ translate Spanish ch21_end_5b12ad4c:
 translate Spanish ch21_end_72e6b5de:
 
     # "Even if they're just being nice, there's no way my poems can stand up to theirs."
-    "Aunque estén siendo siendo majas, es imposible que mis poemas estén a la altura de los suyos."
+    "Aunque estén siendo majas, es imposible que mis poemas estén a la altura de los suyos."
 
 # game/script-ch21.rpy:106
 translate Spanish ch21_end_3e6d2aa1:
@@ -568,7 +568,7 @@ translate Spanish ch21_end_15db327d:
 translate Spanish ch21_end_ebd6a743:
 
     # n 5x "Hmph."
-    n 5x "Hum."
+    n 5x "Jum."
 
 # game/script-ch21.rpy:157
 translate Spanish ch21_end_a87c36dd:
@@ -580,7 +580,7 @@ translate Spanish ch21_end_a87c36dd:
 translate Spanish ch21_end_4466dbb0:
 
     # n "Which people {i}did{/i}, by the way."
-    n "Y a quién {i}le ha gustado{/I}, sí se puede saber."
+    n "Y a quién {i}le ha gustado{/i}, sí se puede saber."
 
 # game/script-ch21.rpy:159
 translate Spanish ch21_end_321942a4:
@@ -664,7 +664,7 @@ translate Spanish ch21_end_2824bf93:
 translate Spanish ch21_end_693f0dc5:
 
     # n "I didn't realize you were so invested in trying to impress our new member, Yuri."
-    n "No tenía ni idea de que estuvieras tan interesada en intentar impresionar a nuestro nuevo miembro, Yuri."
+    n "No tenía ni idea de que estuvieras tan interesada en impresionar a nuestro nuevo miembro, Yuri."
 
 # game/script-ch21.rpy:185
 translate Spanish ch21_end_b63049e5:

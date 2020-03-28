@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-ch1.rpy:9
 translate Spanish ch1_main_0f077782:
@@ -562,7 +562,7 @@ translate Spanish ch1_end_5b12ad4c:
 translate Spanish ch1_end_72e6b5de:
 
     # "Even if they're just being nice, there's no way my poems can stand up to theirs."
-    "Aunque estén siendo siendo majas, es imposible que mis poemas estén a la altura de los suyos."
+    "Aunque estén siendo majas, es imposible que mis poemas estén a la altura de los suyos."
 
 # game/script-ch1.rpy:173
 translate Spanish ch1_end_3e6d2aa1:
@@ -760,7 +760,7 @@ translate Spanish ch1_end_a87c36dd:
 translate Spanish ch1_end_4466dbb0:
 
     # n "Which people {i}did{/i}, by the way."
-    n "Y a quién {i}le ha gustado{/I}, sí se puede saber."
+    n "Y a quién {i}le ha gustado{/i}, sí se puede saber."
 
 # game/script-ch1.rpy:226
 translate Spanish ch1_end_9a6ca7e3:
@@ -844,7 +844,7 @@ translate Spanish ch1_end_2824bf93:
 translate Spanish ch1_end_693f0dc5:
 
     # n "I didn't realize you were so invested in trying to impress our new member, Yuri."
-    n "No tenía ni idea de que estuvieras tan interesada en intentar impresionar a nuestro nuevo miembro, Yuri."
+    n "No tenía ni idea de que estuvieras tan interesada en impresionar a nuestro nuevo miembro, Yuri."
 
 # game/script-ch1.rpy:252
 translate Spanish ch1_end_b63049e5:
@@ -928,7 +928,7 @@ translate Spanish ch1_end_ccdb66db:
 translate Spanish ch1_end_7e82068e:
 
     # s "U-Um!!"
-    s "¡¡G-grr!!"
+    s "¡¡E-ejem!!"
 
 # game/script-ch1.rpy:275
 translate Spanish ch1_end_983f9fbc:

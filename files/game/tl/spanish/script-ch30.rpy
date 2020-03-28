@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-ch30.rpy:128
 translate Spanish ch30_noskip_23f35f95:
@@ -5314,7 +5314,7 @@ translate Spanish ch30_39_1fe5e30c:
 translate Spanish ch30_39_75ace231:
 
     # m "Here's Monika's Writing Tip of the Day!"
-    m "¡Aquí viene el súper consejito del día!"
+    m "¡Aquí viene el superconsejito del día!"
 
 # game/script-ch30.rpy:1588
 translate Spanish ch30_39_91c92d3c:
@@ -5542,7 +5542,7 @@ translate Spanish ch30_39_5fb721a2:
 translate Spanish ch30_39_d2646480:
 
     # m "...That's my advice for today!"
-    m "¡Y ese es el súper consejito del día!"
+    m "¡Y ese es el superconsejito del día!"
 
 # game/script-ch30.rpy:1626
 translate Spanish ch30_39_d33852a1:
@@ -5992,7 +5992,7 @@ translate Spanish ch30_46_25db6398:
 translate Spanish ch30_46_34f411b7:
 
     # m "...Well, I guess that would be Monika's Debate Tip of the Day!"
-    m "¡Bueno, supongo que con esto acaba el súper consejito sobre debate del día!"
+    m "¡Bueno, supongo que con esto acaba el superconsejito sobre debate del día!"
 
 # game/script-ch30.rpy:1722
 translate Spanish ch30_46_cd579537:

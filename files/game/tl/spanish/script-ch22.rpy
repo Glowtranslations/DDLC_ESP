@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-ch22.rpy:13
 translate Spanish ch22_main_6ae8eabb:
@@ -1456,7 +1456,7 @@ translate Spanish ch22_end_65c48c99:
 translate Spanish ch22_end_bd0ce5a7:
 
     # n 5s "I just..."
-    n 5s "Solo es que..."
+    n 5s "Solo que..."
 
 # game/script-ch22.rpy:480
 translate Spanish ch22_end_f5aaf804:
@@ -2020,7 +2020,7 @@ translate Spanish ch22_end_1a2636b3:
 translate Spanish ch22_end_8cd8c881:
 
     # m 1l "Sorry, I didn't mean to say something weird!"
-    m 1l "¡Lo siento si eso ha sondado raro!"
+    m 1l "¡Lo siento si eso ha sonado raro!"
 
 # game/script-ch22.rpy:649
 translate Spanish ch22_end_e552ed88:

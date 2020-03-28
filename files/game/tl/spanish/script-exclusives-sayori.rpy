@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-exclusives-sayori.rpy:6
 translate Spanish sayori_exclusive_1_ebd278f3:
@@ -646,7 +646,7 @@ translate Spanish sayori_exclusive_1_3cd77e3d:
 translate Spanish sayori_exclusive_1_66638312:
 
     # s "That's {i}super{/i} mean!"
-    s "¡Ahí sí que has sido {i}súper{/i} borde!"
+    s "¡Ahí sí que has sido {i}superborde{/i}!"
 
 # game/script-exclusives-sayori.rpy:153
 translate Spanish sayori_exclusive_1_0bd0c01c:

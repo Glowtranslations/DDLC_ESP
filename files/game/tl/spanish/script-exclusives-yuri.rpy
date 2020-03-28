@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-exclusives-yuri.rpy:4
 translate Spanish yuri_exclusive_1_e440bb66:
@@ -166,7 +166,7 @@ translate Spanish yuri_exclusive_1_5daab38f:
 translate Spanish yuri_exclusive_1_1fb27bb9:
 
     # y 1w "I...just happened to buy two of them."
-    y 1w "C... compré dos copias."
+    y 1w "C-compré dos copias."
 
 # game/script-exclusives-yuri.rpy:34
 translate Spanish yuri_exclusive_1_236ab8d0:
@@ -346,7 +346,7 @@ translate Spanish yuri_exclusive_1_3c899c8c:
 translate Spanish yuri_exclusive_1_2269e4aa:
 
     # "Yeah... I totally forgot that Yuri is into those things."
-    "Es verdad... Se me olvidó por completo que a a Yuri le iban ese tipo de cosas."
+    "Es verdad... Se me olvidó por completo que a Yuri le iban ese tipo de cosas."
 
 # game/script-exclusives-yuri.rpy:64
 translate Spanish yuri_exclusive_1_b87c0f68:

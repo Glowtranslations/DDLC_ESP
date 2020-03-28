@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-exclusives2-natsuki.rpy:71
 translate Spanish natsuki_exclusive2_1_f5f51468:
@@ -598,7 +598,7 @@ translate Spanish natsuki_exclusive2_1_8c8bfeaa:
 translate Spanish natsuki_exclusive2_1_ffa2b290:
 
     # n "Hmph."
-    n "Hum."
+    n "Jum."
 
 # game/script-exclusives2-natsuki.rpy:198
 translate Spanish natsuki_exclusive2_1_ef747705:

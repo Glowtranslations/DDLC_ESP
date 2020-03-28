@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-poemresponses2.rpy:7
 translate Spanish ch22_y_end_709da3c5:
@@ -520,7 +520,7 @@ translate Spanish ch22_m_end_76b81468:
 translate Spanish ch22_m_end_16f290c4:
 
     # m 3b "Here's Monika's Writing Tip of the Day!"
-    m 3b "¡Aquí viene el súper consejito del día!"
+    m 3b "¡Aquí viene el superconsejito del día!"
 
 # game/script-poemresponses2.rpy:216
 translate Spanish ch22_m_end_6417a080:
@@ -568,7 +568,7 @@ translate Spanish ch22_m_end_f97ac3b8:
 translate Spanish ch22_m_end_a33519f4:
 
     # m 3k "...That's my advice for today!"
-    m 3k "¡Y ese es el súper consejito del día!"
+    m 3k "¡Y ese es el superconsejito del día!"
 
 # game/script-poemresponses2.rpy:225
 translate Spanish ch22_m_end_d33852a1:
@@ -2554,7 +2554,7 @@ translate Spanish m2_yuri_2_50688481:
 translate Spanish m2_yuri_2_d1e9b51b:
 
     # m "I think she just gets some kind of high from it."
-    m "Creo que se coloca con eso."
+    m "Creo que se excita con eso."
 
 # game/script-poemresponses2.rpy:738
 translate Spanish m2_yuri_2_9799bab9:

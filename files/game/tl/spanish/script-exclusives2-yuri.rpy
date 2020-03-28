@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-exclusives2-yuri.rpy:4
 translate Spanish yuri_exclusive2_1_e440bb66:
@@ -166,7 +166,7 @@ translate Spanish yuri_exclusive2_1_5daab38f:
 translate Spanish yuri_exclusive2_1_1fb27bb9:
 
     # y 1w "I...just happened to buy two of them."
-    y 1w "C... compré dos copias."
+    y 1w "C-compré dos copias."
 
 # game/script-exclusives2-yuri.rpy:34
 translate Spanish yuri_exclusive2_1_236ab8d0:
@@ -340,7 +340,7 @@ translate Spanish yuri_exclusive2_1_ch22_3c899c8c:
 translate Spanish yuri_exclusive2_1_ch22_2269e4aa:
 
     # "Yeah... I totally forgot that Yuri is into those things."
-    "Es verdad... Se me olvidó por completo que a a Yuri le iban ese tipo de cosas."
+    "Es verdad... Se me olvidó por completo que a Yuri le iban ese tipo de cosas."
 
 # game/script-exclusives2-yuri.rpy:64
 translate Spanish yuri_exclusive2_1_ch22_b87c0f68:
@@ -520,13 +520,13 @@ translate Spanish yuri_exclusive2_1_ch22_23631788:
 translate Spanish yuri_exclusive2_1_ch22_6961466a:
 
     # y dragon "Y-Yes!"
-    y dragon "¡G-genial!"
+    y dragon "¡Ge-genial!"
 
 # game/script-exclusives2-yuri.rpy:103
 translate Spanish yuri_exclusive2_1_ch22_3a42219b:
 
     # y 3n "I-I mean, you don't have to, but...!"
-    y 3n "¡Q-quiero decir, no tienes por qué hacerlo, pero...!"
+    y 3n "¡Qu-quiero decir, no tienes por qué hacerlo, pero...!"
 
 # game/script-exclusives2-yuri.rpy:104
 translate Spanish yuri_exclusive2_1_ch22_4e8c6ca5:

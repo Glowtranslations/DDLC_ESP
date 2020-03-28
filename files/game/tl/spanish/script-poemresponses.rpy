@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2020-03-17 04:22
+﻿# TODO: Translation updated at 2020-03-28 08:45
 
 # game/script-poemresponses.rpy:33
 translate Spanish poemresponse_start2_aa080a54:
@@ -58,7 +58,7 @@ translate Spanish ch1_y_end_62a6d5c9:
 translate Spanish ch1_y_end_54de4381:
 
     # y "I...I'm sorry I have such terrible handwriting!"
-    y "¡S... siento tener una letra tan horrible!"
+    y "¡Si-siento tener una letra tan horrible!"
 
 # game/script-poemresponses.rpy:133
 translate Spanish ch1_y_end_e4e4c339:
@@ -1840,7 +1840,7 @@ translate Spanish ch3_n_end_4e355357:
 translate Spanish ch3_n_end_415f6d11:
 
     # n "Making us write about a simple topic, then trying to impress me by coming up with something all fancy."
-    n "Hacer que las dos escribamos sobre el mismo tema, para después intentar impresionarme con algo superelaborado."
+    n "Hacer que las dos escribamos sobre el mismo tema, para después impresionarme con algo superelaborado."
 
 # game/script-poemresponses.rpy:480
 translate Spanish ch3_n_end_68618747:
@@ -2548,7 +2548,7 @@ translate Spanish ch1_m_end2_f9598f81:
 translate Spanish ch1_m_end2_8951491e:
 
     # mc "Hmm...it's very...freeform, if that's what you call it."
-    mc "Humm… es bastante... libre, si es así como se llaman."
+    mc "Jumm… es bastante... libre, si es así como se llaman."
 
 # game/script-poemresponses.rpy:617
 translate Spanish ch1_m_end2_ea07765a:
@@ -2644,7 +2644,7 @@ translate Spanish ch1_m_end2_cba62eca:
 translate Spanish ch1_m_end2_16f290c4:
 
     # m 3b "Here's Monika's Writing Tip of the Day!"
-    m 3b "¡Aquí viene el súper consejito del día!"
+    m 3b "¡Aquí viene el superconsejito del día!"
 
 # game/script-poemresponses.rpy:633
 translate Spanish ch1_m_end2_b8a9badc:
@@ -2686,7 +2686,7 @@ translate Spanish ch1_m_end2_6b20b3a2:
 translate Spanish ch1_m_end2_a33519f4:
 
     # m 3k "...That's my advice for today!"
-    m 3k "¡Y ese es el súper consejito del día!"
+    m 3k "¡Y ese es el superconsejito del día!"
 
 # game/script-poemresponses.rpy:640
 translate Spanish ch1_m_end2_d33852a1:
@@ -2812,7 +2812,7 @@ translate Spanish ch2_m_end_c9062bfa:
 translate Spanish ch2_m_end_16f290c4:
 
     # m 3b "Here's Monika's Writing Tip of the Day!"
-    m 3b "¡Aquí viene el súper consejito del día!"
+    m 3b "¡Aquí viene el superconsejito del día!"
 
 # game/script-poemresponses.rpy:665
 translate Spanish ch2_m_end_6417a080:
@@ -2860,7 +2860,7 @@ translate Spanish ch2_m_end_30727938:
 translate Spanish ch2_m_end_fb668315:
 
     # m 3b "...That's my advice for today!"
-    m 3b "¡Y ese es el súper consejito del día!"
+    m 3b "¡Y ese es el superconsejito del día!"
 
 # game/script-poemresponses.rpy:673
 translate Spanish ch2_m_end_d33852a1:
@@ -2980,7 +2980,7 @@ translate Spanish ch3_m_end_35ec09b1:
 translate Spanish ch3_m_end_16f290c4:
 
     # m 3b "Here's Monika's Writing Tip of the Day!"
-    m 3b "¡Aquí viene el súper consejito del día!"
+    m 3b "¡Aquí viene el superconsejito del día!"
 
 # game/script-poemresponses.rpy:696
 translate Spanish ch3_m_end_9fc6f159:
@@ -3028,7 +3028,7 @@ translate Spanish ch3_m_end_2496c031:
 translate Spanish ch3_m_end_a33519f4:
 
     # m 3k "...That's my advice for today!"
-    m 3k "¡Y ese es el súper consejito del día!"
+    m 3k "¡Y ese es el superconsejito del día!"
 
 # game/script-poemresponses.rpy:704
 translate Spanish ch3_m_end_d33852a1:
@@ -5278,7 +5278,7 @@ translate Spanish ch3_n_good_cc1abee3:
 translate Spanish ch3_n_good_ff270aab:
 
     # n "What's the point in sharing my poems if people just laugh and say \"That's so cute, just like you, Natsuki!\""
-    n "Qué sentido tiene enseñar mis poemas si la gente solo se reirá y dirá \"¡Es tan adorable como tú, Natsuki!\""
+    n "Qué sentido tiene enseñar mis poemas si la gente solo se reirá y dirá «¡Es tan adorable como tú, Natsuki!»"
 
 # game/script-poemresponses.rpy:1239
 translate Spanish ch3_n_good_39e2ca20:
@@ -6436,7 +6436,7 @@ translate Spanish ch2_s_shared_66ef0676:
 translate Spanish ch2_s_shared_88719d22:
 
     # s 4n "Eh? It is?"
-    s 4n "¿Eh? ¿Ah sí?"
+    s 4n "¿Eh? ¿Ah, sí?"
 
 # game/script-poemresponses.rpy:1459
 translate Spanish ch2_s_shared_9dc9b008:
@@ -12574,7 +12574,7 @@ translate Spanish m_sayori_3_db98a6f5:
 translate Spanish m_sayori_3_9bffe845:
 
     # mc "Yeah? Did she tell you something?"
-    mc "¿Ah sí? ¿Te ha dicho algo?"
+    mc "¿Ah, sí? ¿Te ha dicho algo?"
 
 # game/script-poemresponses.rpy:2653
 translate Spanish m_sayori_3_b90d1b34:
