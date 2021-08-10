@@ -19,12 +19,14 @@ Este parche solamente es compatible con la versión 1.1.1 del videojuego (En el 
 ## 1.2
 - Arreglado un error de traducción en uno de los poemas especiales (Gracias a TheBlondGuy por el aviso).
 Este parche solamente es compatible con la versión 1.1.1 del videojuego (En el caso de PC) y necesitas tener una consola con acceso a homebrew para cargar el port de la traducción. 
+## 1.3
+- Arreglado un error de traducción (Gracias a Krigsu por el aviso).
+- Cambiado el enlace de advertencia a TraduSquare.
 # Herramientas usadas en la traducción
 - [Monika](https://github.com/Darkmet98/Monika " Monika") — Herramienta encargada de exportar e importar los textos del vídeojuego para las herramientas de traducción asistida.
 - [Unrpyc](https://github.com/CensoredUsername/unrpyc "Unrpyc") — Herramienta encargada de descifrar los rpyc a rpy.
 - [RPA_Extractor](https://github.com/Darkmet98/Rpa_Extractor "RPA_Extractor") — Herramienta cargada de desempaquetar los rpa.
 - [Weblate](https://weblate.org/es/ "Weblate") — Herramienta encargada de ayudarnos a traducir el videojuego.
 # Fichas
-- [GlowTranslations](https://www.glowtranslations.es/p/doki-doki-literature-club.html "GlowTranslations")
 - [TraduSquare](https://tradusquare.es/ficha.php?ddlc "TraduSquare")
 - [Steam](https://steamcommunity.com/app/698780/discussions/0/3159763879062145413/ "Steam")
