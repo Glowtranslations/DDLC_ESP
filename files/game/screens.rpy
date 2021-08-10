@@ -1046,7 +1046,7 @@ init -501 screen preferences() tag menu:
                     textbutton _("Español") action [SetVariable("voices", "Spanish"), Function(UpdateConfig)]
                     textbutton _("Inglés") action [SetVariable("voices", "English"), Function(UpdateConfig)]
 
-    text "Traducido por GlowTranslations\nVersión de la traducción: 1.2\nVersión del juego: v[config.version]":
+    text "Traducido por GlowTranslations\nVersión de la traducción: 1.3\nVersión del juego: v[config.version]":
         xalign 1.0 yalign 1.0
         xoffset -10 yoffset -10
         style "main_menu_version"

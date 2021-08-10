@@ -1702,7 +1702,7 @@ translate Spanish ch22_end_13e800d6:
 translate Spanish ch22_end_4a14c427:
 
     # mc "That's what will end up making the Literature Club a special place."
-    mc "Eso es lo hace de el club de literatura un lugar muy especial."
+    mc "Por eso el club de literatura es un lugar muy especial."
 
 # game/script-ch22.rpy:559
 translate Spanish ch22_end_a85b1d65:

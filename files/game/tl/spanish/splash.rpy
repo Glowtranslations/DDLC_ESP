@@ -16,7 +16,7 @@ translate Spanish splashscreen_365de68f:
 translate Spanish splashscreen_b895d9b1:
 
     # "Individuals suffering from anxiety or depression may not have a safe experience playing this game. For content warnings, please visit: http://ddlc.moe/warning.html"
-    "Si sufres ansiedad o tienes depresión deberías de dejar de jugar a este juego inmediatamente. Para más información acerca de esto, visita la siguiente dirección: https://www.glowtranslations.es/p/doki-doki-literature-club-advertencias.html"
+    "Si sufres ansiedad o tienes depresión deberías de dejar de jugar a este juego inmediatamente. Para más información acerca de esto, visita la siguiente dirección: https://tradusquare.es/ficha.php?ddlc"
 
 # game/splash.rpy:434
 translate Spanish after_load_78a4e9dc:
